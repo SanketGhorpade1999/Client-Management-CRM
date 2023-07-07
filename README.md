@@ -1,0 +1,2 @@
+# Customer Relation Management (CRM)
+ This evolved Java project needs refined mastery in Java database connectivity, MySQL, HTTP, and JSpring framework. You ought to learn Spring core/MVC, ORM framework, and Hibernate to accomplish this project. You will develop a management system for the web platform that will let community managers revise and access consumer data for more satisfactory consumer relations. This project utilizes the Spring framework and offers the source sets for Java programming.
