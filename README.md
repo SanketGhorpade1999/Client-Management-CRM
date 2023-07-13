@@ -23,6 +23,6 @@ Note: in this project a free bootstrap templete [Vali Admin](https://github.com/
 - Generating notifications for today's events
 - API for clients
 
-## Authors
+## Author
 
 Sanket Ghorpade - [SankyGhorpade]([https://github.com/SankyGhorpade])
