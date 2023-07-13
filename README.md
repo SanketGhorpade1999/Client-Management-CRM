@@ -1,7 +1,10 @@
 # CRM - Customer Relationship Managment
 
 Technologies used: Java 8, Spring Boot, Spring MVC, Spring Data, Hibernate, Spring Security, MySQL, Multithreading, JUnit.
+
 Libraries used: Lombok, OpenCSV,  iText
+
+
 Frameworks Used : JQuery, BootStrap
 
 Note: in this project a free bootstrap templete [Vali Admin](https://github.com/pratikborsadiya/vali-admin) is used.
